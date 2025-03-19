@@ -47,6 +47,9 @@ public class Date {
     return year;
   }
 
+  public void metodo() {
+    System.out.println("Method added by the owner Raul");
+  }
   /**
    * Constructs a Date object representing a specific day, month, and year.
    *
